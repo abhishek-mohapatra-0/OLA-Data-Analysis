@@ -1,5 +1,7 @@
 # OLA-Data-Analysis
 
+🌟 Live dashboard link:- https://lnkd.in/gVuYSKnK
+
 # Overview
 This project analyzes OLA cab operations to provide actionable insights using Power BI and SQL. The goal was to transform raw booking data into a dynamic, interactive dashboard that supports data-driven decision-making.
 
